@@ -131,4 +131,4 @@ while True:
     janela.update()
 
 
-    #comment 26/10
+    #comment 26/sadjanspda
